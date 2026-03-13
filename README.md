@@ -1,1 +1,1 @@
-# posmotri-v-okno-ad
+https://github.com/qwimeaz16/posmotri-v-okno-ad
